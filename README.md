@@ -60,7 +60,7 @@ MS Excel
 
 ## Tools Used
 Bug Tracking: Jira / Bugzilla / GitHub Issues
-Documentation: MS Excel,
+Documentation: MS Excel
 
 ## Security Testing
 * SQL Injection testing
